@@ -1,0 +1,26 @@
+a {
+    display: block;
+    background: #ff001e28;
+    padding: 20px;
+    text-align: center;
+  }
+
+  body{
+    background-color: #cc32494e;
+    font-size: xx-large;
+  }
+
+
+
+
+
+img{
+    inline-size: 800px;
+}
+
+p{
+    color: brown;
+    padding: auto;
+    font-style: normal;
+    font-family: sans-serif;
+}
